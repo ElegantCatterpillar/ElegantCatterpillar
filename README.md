@@ -1,4 +1,13 @@
-## Hi there 👋
+<table align="center">
+  <tr>
+    <td>
+        <h1>Welcome to my Github</h1>
+    </td>
+    <td><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhlbG5wZ2VkNHVtbzQ4ZTRibGM4ZHVrMzlkenk5MDdldG5qNGVkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uXA3AVxUtHsVKVjlj8/giphy.webp" width="100"/></td>
+  </tr>
+</table>
+
+![Banner Oswaldo Garcia](github-header-image.png)
 
 <!--
 **ElegantCatterpillar/ElegantCatterpillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
