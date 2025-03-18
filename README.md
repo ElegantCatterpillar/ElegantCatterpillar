@@ -164,7 +164,7 @@ As a highly effective team leader, I excel in communication, coordination, and p
 
 ###
 
-<h3 align="left">In rare caseso</h3>
+<h3 align="left">In rare cases</h3>
 
 ###
 
