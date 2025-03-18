@@ -10,19 +10,21 @@
 
 ###
 
-<h1 align="center">¡Hola, soy Oscar Garcia! 👋</h1>
+<h1 align="center">Hi, I'm Oscar Garcia!👋</h1>
 
 ###
 
-<p align="left">¡Bienvenido a mi perfil de GitHub! Soy un Ingeniero Mecátronico Desarrollador de Software, actualmente me desempeño como jefe de equipo de desarrollo de software en un entorno full stack apasionado/a por la innovación y la automatización de procesos a partir del desarrollo de aplicaciones. Aquí encontrarás más información sobre mí.</p>
+<p align="left">Welcome to my GitHub profile! I am a Mechatronics Engineer and Software Developer with a strong focus on end-to-end project management, from requirements gathering to successful implementation. Currently, I lead a full-stack software development team, where I strive to deliver innovative technological solutions, including web, desktop, and mobile applications, as well as database systems. My work is characterized by meeting deadlines, exceeding client expectations, and driving operational efficiency through automation and digital transformation.
+
+As a highly effective team leader, I excel in communication, coordination, and problem-solving, ensuring the delivery of high-quality projects. My approach is rooted in innovation, integrity, and continuous learning, which has allowed me to consistently contribute to successful and impactful outcomes. I am passionate about leveraging my skills and leadership to push the boundaries of technology and create meaningful change in the industry.</p>
 
 ###
 
-<h2 align="center">Contacto 📬</h2>
+<h2 align="center">Contact 📬</h2>
 
 ###
 
-<p align="center">Si deseas contactarme, no dudes en escribirme en mis redes.<br>¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊</p>
+<p align="center">Feel free to contact me. I am always open to collaboration and new challenges.<br>Thanks for visiting my profile! I hope you find something interesting here. 😊</p>
 
 ###
 
@@ -38,19 +40,19 @@
 
 ###
 
-<h3 align="center">Sobre Mí 👩‍💻</h3>
+<h3 align="center">About me 👩‍💻</h3>
 
 ###
 
-<p align="left">- 🔭 Actualmente estoy trabajando en proyectos privados.<br>- 🌱 Estoy aprendiendo a desarrollar aplicaciones completas con Node.<br>- 💬 Pregúntame sobre alguna técnologia o comentame sobre alguna.</p>
+<p align="left">- 🔭 Currently I only work for private projects.<br>- 🌱 I am learning to develop complete applications with Node and Factory Talk Optix.</p>
 
 ###
 
-<h2 align="left">Tecnologías y Herramientas 🛠️ (Aquí están algunas de las tecnologías y herramientas con las que trabajo o eh trabajado)</h2>
+<h2 align="left">Technologies and Tools 🛠️ (Here are some of the technologies and tools I work with or have worked with)</h2>
 
 ###
 
-<h3 align="left">Del día a día</h3>
+<h3 align="left">Everyday</h3>
 
 ###
 
@@ -106,7 +108,7 @@
 
 ###
 
-<h3 align="left">Común</h3>
+<h3 align="left">Normally</h3>
 
 ###
 
@@ -162,7 +164,7 @@
 
 ###
 
-<h3 align="left">Muy poco</h3>
+<h3 align="left">In rare caseso</h3>
 
 ###
 
