@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">- 🔭 Actualmente estoy trabajando en proyectos privados.<br>- 🌱 Estoy aprendiendo a desarrollar aplicaciones completas con Node.<br>- 💬 Pregúntame sobre alguna técnologia, que te apasiona, ajedrez, lugares a interesantes para visitar, que quieres dominar.</p>
+<p align="left">- 🔭 Actualmente estoy trabajando en proyectos privados.<br>- 🌱 Estoy aprendiendo a desarrollar aplicaciones completas con Node.<br>- 💬 Pregúntame sobre alguna técnologia o comentame sobre alguna.</p>
 
 ###
 
