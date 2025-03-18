@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">¡Bienvenido/a a mi perfil de GitHub! Soy un Ingeniero Mecátronico Desarrollador de Software [tu profesión o rol, por ejemplo: Desarrollador Full Stack, Ingeniero de Software, Analista de Datos, etc.] apasionado/a por [tus intereses, por ejemplo: la tecnología, el desarrollo web, la inteligencia artificial, etc.]. Aquí encontrarás algunos de mis proyectos, contribuciones y un poco más sobre mí.</p>
+<p align="left">¡Bienvenido a mi perfil de GitHub! Soy un Ingeniero Mecátronico Desarrollador de Software, actualmente me desempeño como jefe de equipo de desarrollo de software en un entorno full stack apasionado/a por la innovación y la automatización de procesos a partir del desarrollo de aplicaciones. Aquí encontrarás más información sobre mí.</p>
 
 ###
 
