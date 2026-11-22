@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Oscar Garcia 👋</h1>
+<h1 align="center">Hi, I'm Oswaldo García 👋</h1>
 <h3 align="center">Full-Stack Developer & Team Lead — Hermosillo, MX</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="https://cal.com/oswaldo-ogm/30min" target="_blank">
     <img src="https://img.shields.io/badge/Book%20a%20call-1A1A1A?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" />
   </a>
-  <a href="https://wa.me/526622283222" target="_blank">
+  <a href="https://wa.me/525635044399" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo" />
   </a>
 </p>
@@ -30,7 +30,7 @@ I'm a full-stack developer with 10+ years of experience. I started as a mechatro
 
 These days I build web, desktop and mobile apps, REST APIs, and the infrastructure behind them. I also lead a small dev team — mentoring, code reviews, and the usual herding of cats. Mostly working in the .NET and Vue ecosystems.
 
-I like problems that are a bit annoying to solve. Currently open to remote work.
+I like problems that are a bit annoying to solve.
 
 ### A few things I've done
 
