@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Oswaldo García 👋</h1>
+<h1 align="center">Hi, I'm Oscar Garcia 👋</h1>
 <h3 align="center">Full-Stack Developer & Team Lead — Hermosillo, MX</h3>
 
 <p align="center">
