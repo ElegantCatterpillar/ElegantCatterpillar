@@ -56,7 +56,7 @@ Aplicación gratuita para Windows que permite usar el Switch 2 Pro Controller, l
 **También**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,azure,py,postgres&theme=light" height="44" alt="React, Tailwind, Docker, Azure, Python, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,docker,azure,py,postgres&theme=light" height="44" alt="Node.js, React, Tailwind, Docker, Azure, Python, PostgreSQL" />
 </p>
 
 ---

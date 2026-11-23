@@ -56,7 +56,7 @@ Free Windows app to use the Switch 2 Pro Controller, Joy-Con 2 and Switch Pro Co
 **Also**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,docker,azure,py,postgres&theme=light" height="44" alt="React, Tailwind, Docker, Azure, Python, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,docker,azure,py,postgres&theme=light" height="44" alt="Node.js, React, Tailwind, Docker, Azure, Python, PostgreSQL" />
 </p>
 
 ---
